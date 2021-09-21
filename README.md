@@ -1,0 +1,2 @@
+# gittraining
+Test GitTraining instructions
